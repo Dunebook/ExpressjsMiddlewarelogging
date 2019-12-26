@@ -1,0 +1,17 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "A simple logger app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "wisdom ekpot",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "chalk": "^3.0.0",
+    "expressjs": "^1.0.1"
+  }
+}
